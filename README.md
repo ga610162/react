@@ -47,7 +47,7 @@ function HelloMessage({ name }) {
 ReactDOM.render(
   <HelloMessage name="Taylor" />,
   document.getElementById('container')
-  test_20200529
+  test_20200529_ruOK
 );
 ```
 
